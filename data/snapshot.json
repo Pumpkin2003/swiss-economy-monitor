@@ -1,6 +1,6 @@
 {
   "country": "Switzerland",
-  "last_successful_refresh_utc": "2026-11-26T18:24:25+00:00",
+  "last_successful_refresh_utc": "2026-11-27T18:10:05+00:00",
   "series": {
     "gdp": {
       "title": "Real GDP growth",
@@ -28134,9 +28134,13 @@
         {
           "date": "2026-11-26",
           "value": 0.9153
+        },
+        {
+          "date": "2026-11-27",
+          "value": 0.9157
         }
       ],
-      "latest_observation": "2026-11-26"
+      "latest_observation": "2026-11-27"
     },
     "usd_chf": {
       "title": "USD/CHF exchange rate",
@@ -55690,9 +55694,13 @@
         {
           "date": "2026-11-26",
           "value": 0.8339863
+        },
+        {
+          "date": "2026-11-27",
+          "value": 0.8357215
         }
       ],
-      "latest_observation": "2026-11-26"
+      "latest_observation": "2026-11-27"
     }
   },
   "pipeline_version": 1
